@@ -1,6 +1,6 @@
 # 程序员如何维护自己?
 
-(![img](https://img.shields.io/badge/coder-%5E9.9.6-lightgrey))(https://github.com/airhang-cloud)
+[![img](https://img.shields.io/badge/coder-%5E9.9.6-lightgrey)](https://github.com/airhang-cloud)
 
 ## 背景
 
