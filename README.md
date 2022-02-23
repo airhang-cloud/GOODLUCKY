@@ -1,5 +1,7 @@
 # 程序员如何维护自己?
 
+(![img](https://img.shields.io/badge/coder-%5E9.9.6-lightgrey))(https://github.com/airhang-cloud)
+
 ## 背景
 
     中国每年有近60万人因心脏性疾病猝死，其中大多数是不超过35岁的年轻人。
